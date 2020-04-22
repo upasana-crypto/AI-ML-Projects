@@ -1,0 +1,6 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn import datasets
+
+plt.style.use('ggplot')  # R language's ggplot library used to plot graphics with data for visualization
